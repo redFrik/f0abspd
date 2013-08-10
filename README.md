@@ -1,6 +1,8 @@
 abstractions for puredata
 =========================
 
+these are abstractions/plugins to be used with [Pure Data](http://puredata.info)
+
 * **f0_fsk** - frequency-shift keying for pd-vanilla
 
 see also <http://www.fredrikolofsson.com/pages/code-pd.html>
